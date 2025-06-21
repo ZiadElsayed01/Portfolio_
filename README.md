@@ -1,51 +1,32 @@
-# Welcome to My Portfolio
+# 🚀 Ziad El-Sayed - Portfolio
 
-## How can I edit this code?
+Welcome to my personal **portfolio website** – built to showcase my front-end development skills, personal projects, and professional experience.
 
-There are several ways of editing your application.
+🔗 **Live Demo**: [View Portfolio](https://portfolio-hazel-psi-37.vercel.app/)
 
-**Use your preferred IDE**
+## 📸 Overview
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+This portfolio is a responsive and animated website created with modern web technologies. It highlights my featured projects, technical stack, and contact information — tailored for recruiters and collaborators who want to learn more about me.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ Built With
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **React.js** – Frontend library for building UI
+- **Tailwind CSS** – Utility-first CSS framework for rapid design
+- **Framer Motion** – Smooth animations and transitions
+- **Lucide Icons** – Clean and modern icon set
+- **Vite** – Blazing-fast dev server and build tool
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📁 Features
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- ✅ Smooth scroll and section transitions
+- ✅ Fully responsive across all devices
+- ✅ Animated section reveal on scroll
+- ✅ Project cards with live demo and GitHub links
+- ✅ Dark-themed modern UI with glassmorphism effect
+- ✅ Clean code and component-based structure
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
